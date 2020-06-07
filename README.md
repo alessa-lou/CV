@@ -1,6 +1,6 @@
-## Your Name
+## Alessa Hardwick
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+Since June 2020, I have been studying at Makers Academy, a developer bootcamp.... 
 
 ## Skills
 
@@ -23,18 +23,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (08/06/2020 to 08/2020)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
-
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### University of Leeds BSc (Hons) Zoology, 2.1(2010 to 2013)
+-Developing skills of analysis, research, written and verbal communication, and time management, as well as developing laboratory and field work skills. 
+-Modules studied included ecology, evolution and physiology, as well as more specific modules such as bats and social insects, and a dissertation on the model organism Caenorhabditis elegans.
 
 #### Any other qualifications
 
@@ -42,13 +40,12 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
+**Asylum Retail Ltd.** (04/2019 to 04/2020)    
+*Marketing Associate*  
 - Any experience relevent to software development
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
-- Any experience relevent to software development
+**Matlock Farm Park** (08/2015 to 04/2019)   
+*Head of Science*  
 
 ## Hobbies
 
