@@ -21,6 +21,15 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
+Other useful things to mention:
+Times you used tech to automate functions;
+Leading Teams;
+Presenting Skills;
+Getting Things Done;
+Written Skills;
+Sales or Client facing skills;
+Anything requiring high levels of attention to detail.
+
 ## Education
 
 #### Makers Academy (08/06/2020 to 08/2020)
