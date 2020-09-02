@@ -84,7 +84,6 @@ That in some arguable way make you a better software developer or well-rounded p
 
 **National Club Golfer Magazine** (02/14 - 08/2015)
 *Content Executive*  
-
 - I was in charge of competitions and created a spreadsheet so I could track whether the winner had responded to the notification and pick a different winner if not after a certain time period.
 
 
