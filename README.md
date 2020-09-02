@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Alessa Hardwick</h1>
   **Full-stack software developer**<br>
-  [Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [LinkedIn](https://www.linkedin.com/in//)
+  | [Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [LinkedIn](https://www.linkedin.com/in//) |
   <br>
 </div>
 
