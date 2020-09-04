@@ -53,8 +53,8 @@ CI/CD: Travis CI, Circle CI, Heroku
 Linting: Rubocop, SimpleCov
 
 #### University of Leeds BSc (Hons) Zoology, 2.1(2010 to 2013)
--Developing skills of analysis, research, written and verbal communication, and time management, as well as developing laboratory and field work skills. 
--Modules studied included ecology, evolution and physiology, as well as more specific modules such as bats and social insects, and a dissertation on the model organism Caenorhabditis elegans.
+- Developing skills of analysis, research, written and verbal communication, and time management, as well as developing laboratory and field work skills. 
+- Modules studied included ecology, evolution and physiology, as well as more specific modules such as bats and social insects, and a dissertation on the model organism Caenorhabditis elegans.
 
 ## Experience
 
