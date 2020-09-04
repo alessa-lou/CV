@@ -1,9 +1,10 @@
 <div align="center">
   <h1>Alessa Hardwick</h1>
   **Full-stack software developer**<br>
-  | [Projects](https://github.com/alessa-lou/CV/blob/master/README.md#projects) | [Skills](https://github.com/alessa-lou/CV/blob/master/README.md#skills) | [Education](#education) | [Experience](https://github.com/alessa-lou/CV/blob/master/README.md#experience) |
   <br>
 </div>
+
+[Experience](https://github.com/alessa-lou/CV/blob/master/README.md#experience)
 
 I have a rather eclectic background, from working at a farm to doing marketing and social media for an alternative fashion brand. Throughout these jobs I have always sought to organise, streamline and make things more efficient, whether that is by setting up a feeding rota for animals or by streamlining the postal system for website orders. 
 
