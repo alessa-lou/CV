@@ -26,7 +26,7 @@ Problem solving is something I find incredibly rewarding and I think it was this
 
 Whilst working at [Matlock Farm Park](https://matlockfarmpark.co.uk) there was a whole host of things that could go wrong in any given day - what do they say? Never work with children or animals? Working with both meant that I often needed to think on my feet, whether that was accomodating large groups of children into a small barn due to a freak snow storm and keeping them entertained whilst we waited it out for 45 minutes, or using a handy wheelbarrow to temporarily block up a hole in a fence to stop the sheep escaping.
 
-During my time at Makers Academy, problem solving was also a key part of the course. Whilst pairing during our AirBnB clone group project, me and my pair partner were trying to set the ID of our user once their log-in details had been authenticated, but we were struggling to work out how to do so. I suggested that we followed the flow and, using print statements, we worked out what was being returned from the database, and how we could access the ID number from the PG result object. It was a very satisfying moment!
+During my time at [Makers Academy](https://makers.tech), problem solving was also a key part of the course. Whilst pairing during our [AirBnB clone](https://github.com/04alexklink/makersbnb) group project, me and my pair partner were trying to set the ID of our user once their log-in details had been authenticated, but we were struggling to work out how to do so. I suggested that we followed the flow and, using print statements, we worked out what was being returned from the database, and how we could access the ID number from the PG result object. It was a very satisfying moment!
 
 
 #### Collaboration
@@ -37,7 +37,7 @@ Additionally my time at Makers Academy has been incredibly collaborative with pa
 
 #### Rapid Learning
 
-Rapid learning has been a feature of my entire career, for example in my previous job at Asylum Retail I learnt how to use Photoshop to make eye-catching, attractive website banners and newsletters within a few months. My love of learning was put to the test during Makers Academy where I went from knowing very minimal Ruby to building an entire web app in JavaScript using three external APIs in 12 weeks (and we didn't even start learning JavaScript until week five).
+Rapid learning has been a feature of my entire career, for example in my previous job at [Asylum Retail](https://www.damagedsociety.co.uk) I learnt how to use Photoshop to make eye-catching, attractive website banners and newsletters within a few months. My love of learning was put to the test during Makers Academy where I went from knowing very minimal Ruby to building an entire web app in JavaScript using three external APIs in 12 weeks (and we didn't even start learning JavaScript until week five).
 
 ## Education
 
