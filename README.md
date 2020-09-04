@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Alessa Hardwick</h1>
   **Full-stack software developer**<br>
-  | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) |
+  | [Projects](https://github.com/alessa-lou/CV/blob/master/README.md#projects) | [Skills](https://github.com/alessa-lou/CV/blob/master/README.md#skills) | [Education](#education) | [Experience](https://github.com/alessa-lou/CV/blob/master/README.md#experience) |
   <br>
 </div>
 
