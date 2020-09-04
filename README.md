@@ -4,7 +4,7 @@
   <br>
 </div>
 
-[Experience](https://github.com/alessa-lou/CV/blob/master/README.md#experience)
+| [Projects](https://github.com/alessa-lou/CV/blob/master/README.md#projects) | [Skills](https://github.com/alessa-lou/CV/blob/master/README.md#skills)| [Experience](https://github.com/alessa-lou/CV/blob/master/README.md#experience) | [Linkedin](https://www.linkedin.com/in/alessa-hardwick-13701282) |
 
 I have a rather eclectic background, from working at a farm to doing marketing and social media for an alternative fashion brand. Throughout these jobs I have always sought to organise, streamline and make things more efficient, whether that is by setting up a feeding rota for animals or by streamlining the postal system for website orders. 
 
