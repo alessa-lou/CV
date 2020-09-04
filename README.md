@@ -24,7 +24,7 @@ Problem solving is something I find incredibly rewarding and I think it was this
 
 Whilst working at [Matlock Farm Park](https://matlockfarmpark.co.uk) there was a whole host of things that could go wrong in any given day - what do they say? Never work with children or animals? Working with both meant that I often needed to think on my feet, whether that was accomodating large groups of children into a small barn due to a freak snow storm and keeping them entertained whilst we waited it out for 45 minutes, or using a handy wheelbarrow to temporarily block up a hole in a fence to stop the sheep escaping.
 
-A less stressful example of problem solving on the farm was when I overhauled the feeding system. I ordered a feed bucket for each animal and a large white board where I marked out a section for each animal, what it needed to eat, any medicinces that needed administering, etc. This meant that less food was wasted, each animal was getting the correct amount of food and hence fewer vet bills, and no one was getting over fed or under fed. 
+During my time at Makers Academy, problem solving was the name of the game. Whilst working on our AirBnB clone we were trying to set our  
 
 
 #### Collaboration
