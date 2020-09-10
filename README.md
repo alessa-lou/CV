@@ -75,8 +75,8 @@ Linting: Rubocop, SimpleCov
 - Public speaking - I did daily talks about various animals for crowds of people or school trips.
 - Did a bit of everything from organisation of medication/ vet appointments, to organising the staff rota, to mucking out, to working on the till, to running daily events, gardening, and even dressing up as an elf at Christmas time!
 
-**National Club Golfer Magazine** (02/14 - 08/2015)
-*Content Executive*  
+**Sports Publications Ltd.** (02/14 - 08/2015)
+*Content Executive for the monthly magazines National Club Golfer and Lady Golfer, and annual equipment/ apparel magazines*  
 - I was in charge of competitions and created a spreadsheet to track when the prizes were sent out
 - Helped organise and facilitate big events and photo shoots
 - Wrote articles about wellness and travel
