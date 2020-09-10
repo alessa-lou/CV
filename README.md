@@ -59,27 +59,26 @@ Linting: Rubocop, SimpleCov
 ## Experience
 
 **Asylum Retail Ltd.** (04/2019 to 04/2020)    
-*Marketing Associate*  
-- Learnt Photoshop on the job having barely used it before
-- Social media marketing and advertising including writing newsletters
-- Set up many collaborations with relevant influencers to increase brand awareness and drive traffic to the website to increase sales
-- Set up an eBay outlet store for the most popular in-house brand
+*Marketing Associate* 
+- Creating content for social media marketing and advertising including writing newsletters, photography and editing using Photoshop.
+- Forming professional relationships with relevant influencers to increase brand awareness and drive traffic to the website to increase sales.
+- Creating an eBay outlet store for the most popular in-house brand to increase sales.
 (- Unofficial tech help, my boss rang me after I'd handed my notice in pre-Makers for a walk-through on how to use the scanner!)
 
 **Matlock Farm Park** (08/2015 to 04/2019)   
 *Head of Science*  
-- Overhauled the feeding rota so that animal feed wastage decreased and the animals were healthier
-- Updated the website with upcoming events or news, sent out quarterly newsletters for the upcoming season's events and activities
-- Streamlined the way school trips were run, from booking to the running of the trip itself
-- In charge of volunteers and work experience students
+- Overhauled the feeding rota so that animal feed wastage decreased and the animals were healthier.
+- Updated the website with upcoming events or news, sent out quarterly newsletters for the upcoming season's events and activities.
+- Streamlined the way school trips were run, from booking to the running of the trip itself on the day.
+- In charge of volunteers and work experience students made sure they were learning and enjoying themselves as well as completing useful tasks.
 - Public speaking - I did daily talks about various animals for crowds of people or school trips.
 - Did a bit of everything from organisation of medication/ vet appointments, to organising the staff rota, to mucking out, to working on the till, to running daily events, gardening, and even dressing up as an elf at Christmas time!
 
 **Sports Publications Ltd.** (02/14 - 08/2015)
 *Content Executive for the monthly magazines National Club Golfer and Lady Golfer, and annual equipment/ apparel magazines*  
-- I was in charge of competitions and created a spreadsheet to track when the prizes were sent out
-- Helped organise and facilitate big events and photo shoots
-- Wrote articles about wellness and travel
+-In charge of competitions and created a spreadsheet to track when the prizes were sent out.
+- Helped organise and facilitate big events and photo shoots.
+- Wrote print and web articles about wellness, travel, beauty and golf lessons.
 
 
 ## Hobbies
