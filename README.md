@@ -14,7 +14,7 @@ Problem solving is something I find incredibly rewarding and I think it was this
 
 |Project        |Description                                           |Technologies              |
 |----------|------------------------------------------------------|----------------------------------------|
-|[spotiVibes](http://spotivibes.surge.sh)| An app which returns a song from Spotify based on an emotional word or image of a human face input. [Give it a go!](http://spotivibes.surge.sh | React, Node, Express, Spotify API, Google Cloud Vision API, Google Cloud Language API, Jest |
+|[spotiVibes](https://github.com/mirimichaelson/spotiVibes)| An app which returns a song from Spotify based on an emotional word or image of a human face input. [Give it a go!](http://spotivibes.surge.sh) | React, Node, Express, Spotify API, Google Cloud Vision API, Google Cloud Language API, Jest |
 | [Rock Paper Scissors](https://github.com/alessa-lou/rps-challenge)| A web app where the user can play the computer at Rock Paper Scissors| Ruby, Rspec, Capybara |
 |[Fishbook](https://github.com/stupot1/acebook-ciao-pescao)| A clone of Facebook but for fish users | Ruby, Rails, Bootstrap, Capybara |
 |[Bank Tech Test](https://github.com/alessa-lou/bank_tech_test) | A practise tech test for creating a virtual bank account | Ruby, Rspec |
