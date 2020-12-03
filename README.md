@@ -9,7 +9,7 @@
 
 I am a full stack junior developer with an enthusiastic interest in environmental science, in particular, the ways in which modern technology can help relieve the pressures of the current climate crisis. With experience working in Python, Ruby and JavaScript, examples of my projects can be found below.
 
-I have a diverse background, from working at a farm to doing marketing and social media for an alternative fashion brand. Throughout these jobs I have always sought to organise, streamline and make things more efficient, whether that is by setting up a feeding rota for animals or by streamlining the system for website orders. 
+I have a diverse background, from doing a BSc Zoology degree, to working at a farm, to doing marketing and social media for an alternative fashion brand. Throughout these jobs I have always sought to organise, streamline and make things more efficient, whether that is by setting up a feeding rota for animals or by streamlining the system for website orders. 
 
 ## Projects
 
