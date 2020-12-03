@@ -6,15 +6,16 @@
   <br>
 </div>
 
-I have a rather eclectic background, from working at a farm to doing marketing and social media for an alternative fashion brand. Throughout these jobs I have always sought to organise, streamline and make things more efficient, whether that is by setting up a feeding rota for animals or by streamlining the postal system for website orders. 
 
-Problem solving is something I find incredibly rewarding and I think it was this that led me to do a coding bootcamp. Makers Academy helped me develop skills such as agile working practices, Test Driven Development, collaborating on projects, rapid learning, honing a process, and attention to detail. I am excited to embark on this new career as a full-stack software developer.
+I am a full stack junior developer with an enthusiastic interest in environmental science, in particular, the ways in which modern technology can help relieve the pressures of the current climate crisis. With experience working in Python, Ruby and JavaScript, examples of my projects can be found below.
+
+I have a diverse background, from working at a farm to doing marketing and social media for an alternative fashion brand. Throughout these jobs I have always sought to organise, streamline and make things more efficient, whether that is by setting up a feeding rota for animals or by streamlining the system for website orders. 
 
 ## Projects
 
 |Project        |Description                                           |Technologies              |
 |----------|------------------------------------------------------|----------------------------------------|
-|[Thermostat](https://github.com/alessa-lou/Thermostat_python)| A web thermostat where the user can increase, decrease or reset temperature, and switch power saving mode on or off. | Python, Flask, jQuery, Pytest |
+|[Thermostat](https://github.com/alessa-lou/Thermostat_python)| A web thermostat where the user can increase, decrease or reset temperature, and switch power saving mode on or off. (Completed post-Makers). | Python, Flask, jQuery, Pytest |
 |[spotiVibes](https://github.com/mirimichaelson/spotiVibes)| An app which returns a song from Spotify based on an emotional word or image of a human face input. [Give it a go!](http://spotivibes.surge.sh) | React, Node, Express, Spotify API, Google Cloud Vision API, Google Cloud Language API, Jest |
 | [Rock Paper Scissors](https://github.com/alessa-lou/rps-challenge)| A web app where the user can play the computer at Rock Paper Scissors| Ruby, Rspec, Capybara |
 |[Fishbook](https://github.com/stupot1/acebook-ciao-pescao)| A clone of Facebook but for fish users | Ruby, Rails, Bootstrap, Capybara |
@@ -25,7 +26,7 @@ Problem solving is something I find incredibly rewarding and I think it was this
 
 #### Problem Solving
 
-Whilst working at [Matlock Farm Park](https://matlockfarmpark.co.uk) there was a whole host of things that could go wrong in any given day - what do they say? Never work with children or animals? Working with both meant that I often needed to think on my feet, whether that was accomodating large groups of children into a small barn due to a freak snow storm and keeping them entertained whilst we waited it out for 45 minutes, or using a handy wheelbarrow to temporarily block up a hole in a fence to stop the sheep escaping.
+Whilst working at [Matlock Farm Park](https://matlockfarmpark.co.uk) there was a whole host of things that could go wrong in any given day - what do they say? Never work with children or animals?! Working with both meant that I often needed to think on my feet, whether that was accomodating large groups of children into a small barn due to a freak snow storm and keeping them entertained whilst we waited it out for 45 minutes, or using a handy wheelbarrow to temporarily block up a hole in a fence to stop the sheep escaping.
 
 During my time at [Makers Academy](https://makers.tech), problem solving was also a key part of the course. Whilst pairing during our [AirBnB clone](https://github.com/04alexklink/makersbnb) group project, me and my pair partner were trying to set the ID of our user once their log-in details had been authenticated, but we were struggling to work out how to do so. I suggested that we followed the flow and, using print statements, we worked out what was being returned from the database, and how we could access the ID number from the PG result object. It was a very satisfying moment!
 
@@ -61,27 +62,25 @@ Linting: Rubocop, SimpleCov
 
 **Asylum Retail Ltd.** (04/2019 to 04/2020)    
 *Marketing Associate* 
-- Creating content for social media marketing and advertising including writing newsletters, photography and editing using Photoshop.
-- Forming professional relationships with relevant influencers to increase brand awareness and drive traffic to the website to increase sales.
-- Creating an eBay outlet store for the most popular in-house brand to increase sales.
-(- Unofficial tech help, my boss rang me after I'd handed my notice in pre-Makers for a walk-through on how to use the scanner!)
+- I created all social media content for the in-house brand Fearless Illustration. Including photography of products, creating competitions, organising collaborations with influencers, writing and editing all Instagram, Facebook and Twitter posts in order to increase brand awareness and increase sales.
+- Deciding to create an eBay outlet store for the most popular in-house brand took advantage of an entirely new group of customers and helped to increase sales.
 
 **Matlock Farm Park** (08/2015 to 04/2019)   
 *Head of Science*  
-- Overhauled the feeding rota so that animal feed wastage decreased and the animals were healthier.
-- Updated the website with upcoming events or news, sent out quarterly newsletters for the upcoming season's events and activities.
-- Streamlined the way school trips were run, from booking to the running of the trip itself on the day.
-- In charge of volunteers and work experience students made sure they were learning and enjoying themselves as well as completing useful tasks.
-- Public speaking - I did daily talks about various animals for crowds of people or school trips.
-- Did a bit of everything from organisation of medication/ vet appointments, to organising the staff rota, to mucking out, to working on the till, to running daily events, gardening, and even dressing up as an elf at Christmas time!
+- I overhauled various inefficient systems that were in place; from revamping the feeding practices so that animal feed wastage decreased thereby saving the staff and owners time and money, to streamlining the way school trips were run, from booking the trips, to the running of the trip itself on the day. 
+- As I have a background in STEM I particularly enjoyed running workshops on insect and pond ecology in the wildlife garden with small groups of customers and larger groups of up to 100 school children.
+- Overseeing volunteers and work experience students allowed me to build on my communication skills. Making sure that the students were learning and enjoying themselves as well as completing useful tasks was particularly rewarding.
+- My public speaking skills really improved during my time at the farm - I did daily animal talks in front of large crowds of people or school trips consisting of up to 100 children.
+- Generally I a bit of everything from organisation of medication/ vet appointments, to organising the staff rota, to re-doing the blog and what's on pages of the website, to sending monthly newsletters, to mucking out, to working on the till, to running daily events, gardening, and even dressing up as an elf at Christmas time!
 
 **Sports Publications Ltd.** (02/14 - 08/2015)
 *Content Executive for the monthly magazines National Club Golfer and Lady Golfer, and annual equipment/ apparel magazines*  
--In charge of competitions and created a spreadsheet to track when the prizes were sent out.
-- Helped organise and facilitate big events and photo shoots.
+
+- I was in charge of competitions and created a spreadsheet to track when the prizes were sent out, I also helped organise and facilitate big brand events and photo shoots which
+helped improve my communication and organisational skills.
 - Wrote print and web articles about wellness, travel, beauty and golf lessons.
 
 
 ## Hobbies
 
-In the spirit of trying new things, I have recently taken up rollerblading!
+In the spirit of trying new things, I have recently taken up embroidery..!
