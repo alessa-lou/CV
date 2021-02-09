@@ -80,7 +80,3 @@ Linting: Rubocop, SimpleCov
 helped improve my communication and organisational skills.
 - Wrote print and web articles about wellness, travel, beauty and golf lessons.
 
-
-## Hobbies
-
-In the spirit of trying new things, I have recently taken up embroidery..!
