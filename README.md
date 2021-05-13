@@ -11,6 +11,8 @@ I am a full stack junior developer with an enthusiastic interest in the ways in 
 
 I have a diverse background, from doing a BSc Zoology degree, to working at a farm, to doing marketing and social media for an alternative fashion brand. Throughout these jobs I have always sought to organise, streamline and make things more efficient, whether that is by setting up a feeding rota for animals or by streamlining the system for website orders. 
 
+:pencil: Currently working on some small AWS Lambda projects to get my head around serverless frameworks
+
 ## Projects
 
 |Project        |Description                                           |Technologies              |
